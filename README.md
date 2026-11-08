@@ -18,16 +18,7 @@
 4. Завершить программу.
 
 ### Блок-схема
-
-```mermaid
-flowchart TD
-    A([Начало]) --> B[/"Ввод a (лицо), b (карта)"/]
-    B --> C["condition = (a % 2 == 0) != (b % 2 == 0)"]
-    C --> D[/"Вывод condition"/]
-    D --> E([Конец])
-```
-
-*Исходник схемы для draw.io: [Lab4_AlgSchema_V11.drawio](Lab4_AlgSchema_V11.drawio)*
+### ![Блок-схема программы](lab12-2.png)
 
 * * *
 
